@@ -10,7 +10,6 @@ Hello devs, my name is Ruth and I am from San Diego California. Currently I live
   <img align="center" alt="Ruth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ruth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ruth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Ruth-yoda" src="https://cdn.discordapp.com/attachments/   /825430589581688872/hi.gif">
 </div>
   
   ##
