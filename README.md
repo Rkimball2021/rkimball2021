@@ -1,4 +1,4 @@
-## Hello devs, my name is Ruth and I am from San Diego California. Currently I live in São Paulo Brazil where I have been a pernanent resident since 2013. Although the majority of my work experience has been in the education/non-profit realm recently I have began studying fullstack development and am loving it. If you would like to connect with me you can find me on linkedin at: linkedin.com/in/ruth-kimball-52139520a. Have a great day. 
+# Hello devs, my name is Ruth and I am from San Diego California. Currently I live in São Paulo Brazil where I have been a pernanent resident since 2013. Although the majority of my work experience has been in the education/non-profit realm recently I have began studying fullstack development and am loving it. If you would like to connect with me you can find me on linkedin at: linkedin.com/in/ruth-kimball-52139520a. Have a great day. 
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rkimball2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
