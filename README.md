@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=fadeIn&height=300&section=header&text=Ruth%20Kimball&fontSize=50)
-
-<p>*## Hello devs, my name is Ruth and I am from San Diego California.<p> Currently I live in São Paulo Brazil where I have been since 2013.<p> Although the majority of my work experience has been in the education/non-profit realm, recently I decided to dive into the world of technology and have been studying fullstack development and am loving it.<p> If you would like to connect with me feel free to click on one of the social media links below. <p> Have a great day.##*/<p>
+<p> Hello devs, my name is Ruth and I am from San Diego California.Currently I live in São Paulo Brazil where I have been since 2013.<p> Although the majority of my work experience has been in the education/non-profit realm, recently I decided to dive into the world of technology and have been studying fullstack development and am loving it.<p> If you would like to connect with me feel free to click on one of the social media links below. <p> Have a great day./<p>
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rkimball2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
