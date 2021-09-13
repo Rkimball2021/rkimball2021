@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=fadeIn&height=190&section=header&text=Ruth%20Kimball&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=fadeIn&height=200&section=header&text=Ruth%20Kimball&fontSize=40)
 <p> Hello devs, my name is Ruth and I am an American expat from San Diego California living in São Paulo Brazil. Although the majority of my work and volunteer experience has been dedicated to the education/non-profit realm recently I decided to delve into the world of technology and have been studying fullstack development and UX/UI<p> I am hoping to gain loads of professional experience to one day be able to integrate the best of both worlds and make a difference through technology. <p> If you would like to connect with me about life and work in Brazil, technology, humanitarian work, Capoeira, IR or anything under the sun, feel free to click on one of the social media links below. <p> Have a great day, Ruth/<p>
  <div>
   <a href="https://github.com/rafaballerini">
