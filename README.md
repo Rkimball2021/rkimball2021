@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=fadeIn&height=300&section=header&text=Ruth%20Kimball&fontSize=50)
 <div class="text-white bg-gray-dark mb-2">
-  .text-white on .bg-gray-dark
+  .text-white on .bg-gray-dark</div>
 <p> Hello fellow devs, my name is Ruth and I am a native Californian living in São Paulo Brazil since 2013. Although the majority of my work and volunteer experience here and around the world has been dedicated to the education/non-profit realm, recently I decided to delve into the world of technology where I have been studying fullstack development and UX/UI.<p> I hope to one day gain enough professional experience to be able to integrate the best of both worlds and make a difference through technology. <p> If you would like to connect with me about life and work in Brazil, technology, humanitarian work, Capoeira, IR or anything under the sun, feel free to connect with me via the LinkedIn and/ Gmail links below. <p> Have a great day, Ruth<p>
  <div>
   <a href="https://github.com/rafaballerini">
@@ -23,5 +23,4 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
 </div>
