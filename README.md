@@ -18,25 +18,17 @@ My path into tech wasn't traditional, but it taught me that adaptability, empath
 
 💬 **Let's connect** if you want to talk tech, life in Brazil, humanitarian work, Capoeira, international relations, or really anything — links below!
 
----
+### 🌱 Currently
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rkimball2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkimball2021&layout=compact&langs_count=7&theme=dracula"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rkimball2021&theme=dracula" alt="GitHub Streak" />
-</div>
-
----
+- 🔧 Exploring **Solution Engineering** and what it means to bridge tech and business
+- 🤖 Studying **Anthropic AI** and the future of human-centered artificial intelligence
+- 🗄️ Learning **SQL** and getting comfortable with data
+- 🌍 Doing all of this from **São Paulo, Brazil** ☕
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
