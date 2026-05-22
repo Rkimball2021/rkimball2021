@@ -59,7 +59,6 @@ My path into tech wasn't traditional, but it taught me that adaptability, empath
 </a>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&height=100)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&height=200)
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&height=100)
