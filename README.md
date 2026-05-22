@@ -62,8 +62,4 @@ My path into tech wasn't traditional, but it taught me that adaptability, empath
 
 <br/>
 
-<div align="center">
-<img src="https://github.com/Rkimball2021/Rkimball2021/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&height=100)
