@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=fadeIn&height=300&section=header&text=Ruth%20Kimball&fontSize=50)
 
-<p> Hello all, my name is Ruth and I am a native Californian that's been living in São Paulo Brazil since 2013. Although the majority of my work experience was  dedicated to the education/non-profit realm in places like Timor Leste, Bósnia and Herezegovina, Dominican Repúblic, Central America, Africa, etc, in 2021 I changed course. During the covid pandemic I was laid off from the bilingual school where I was teaching. This was a very difficult time for me since around the same time my son was diagnosed with autism  and I needed to find a means to get the therapies he needed as quickly as possible. Facing dwindling opportunties in the education realm, I spoke with some friends that were working and tech and decided to make the jump. I completed a bootcamp in fullstack development and UX/UI and one week afer completing the fullstack training I was offered a job on linked in with Robert Half as a Technical Support Specialist with PayPal. The first position was temporary but with a little work, I managed to get a permanent contract as Technical Support Engineer with PayPal, where I currently work. In my free time I enjoy training Capoeira (an Afro Brazilian Martial Art), running at the beach,  and spending time with my 6 year old twins. <p> If you would like to connect with me about life and work in Brazil, technology, humanitarian work, Capoeira, IR or anything under the sun, feel free to connect with me via the LinkedIn and/ Gmail links below. <p> Have a great day, Ruth<
+<p>  **Hello! I'm Ruth** — a native Californian who has called São Paulo, Brazil home since 2013.
+
+My career began in international education and humanitarian work, taking me across Timor-Leste, Bosnia & Herzegovina, the Dominican Republic, Central America, and Africa. In 2021, I made a pivotal shift: laid off during the pandemic and navigating my son's autism diagnosis simultaneously, I channeled that pressure into transformation. I completed a fullstack development and UX/UI bootcamp — and within a week of finishing, landed a Technical Support Specialist role at PayPal through Robert Half. That contract grew into a permanent position as a **Senior Technical Support Specialist at PayPal**, where I work today.
+
+My path into tech wasn't traditional, but it taught me that adaptability, empathy, and persistence matter as much as any technical skill.
+
+**When I'm not debugging**, you'll find me training Capoeira or CrossFit, running along the beach, drinking coffee, and trying to keep up with my very energetic 8-year-old twins.
+
+---
+
+💬 **Let's connect** if you want to talk tech, life in Brazil, humanitarian work, Capoeira, international relations, or really anything — links below! <p> Have a great day, Ruth<
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rkimball2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkimball2021&layout=compact&langs_count=7&theme=dracula"/>
