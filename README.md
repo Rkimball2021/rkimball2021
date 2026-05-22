@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=fadeIn&height=300&section=header&text=Ruth%20Kimball&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=fadeIn&height=300&section=header&text=Ruth%20Kimball&fontSize=60&fontColor=fff&fontAlignY=40&desc=Senior%20Technical%20Support%20%40%20PayPal%20%7C%20São%20Paulo%2C%20Brazil&descAlignY=60&descSize=20)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Senior+Technical+Support+%40+PayPal;Fullstack+Dev+%7C+UX%2FUI;Capoeirista+%7C+CrossFitter+%7C+Coffee+Lover;São+Paulo+via+California" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Capoeirista+%7C+CrossFitter+%7C+Coffee+Lover+%E2%98%95;São+Paulo+via+California+%F0%9F%8C%8E;Mom+of+energetic+8-year-old+twins+%F0%9F%91%A7%F0%9F%91%A6" alt="Typing SVG" />
 </div>
 
 ---
