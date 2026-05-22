@@ -48,7 +48,6 @@ My path into tech wasn't traditional, but it taught me that adaptability, empath
 </div>
 
 ---
-
 ### 🤝 Let's Connect
 
 <div align="center">
@@ -60,6 +59,7 @@ My path into tech wasn't traditional, but it taught me that adaptability, empath
 </a>
 </div>
 
-<br/>
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&height=100)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&height=100)
