@@ -1,11 +1,7 @@
-
-```markdown
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=fadeIn&height=300&section=header&text=Ruth%20Kimball&fontSize=50)
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Senior+Technical+Support+%40+PayPal+%F0%9F%92%9C;Fullstack+Dev+%7C+UX%2FUI+%7C+Tech+Support;Capoeirista+%7C+CrossFitter+%7C+Coffee+Lover+%E2%98%95;São+Paulo+via+California+%F0%9F%8C%8E" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Senior+Technical+Support+%40+PayPal;Fullstack+Dev+%7C+UX%2FUI;Capoeirista+%7C+CrossFitter+%7C+Coffee+Lover;São+Paulo+via+California" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,14 +23,10 @@ My path into tech wasn't traditional, but it taught me that adaptability, empath
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Rkimball2021">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rkimball2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkimball2021&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rkimball2021&theme=dracula" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rkimball2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkimball2021&layout=compact&langs_count=7&theme=dracula"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rkimball2021&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
@@ -42,11 +34,11 @@ My path into tech wasn't traditional, but it taught me that adaptability, empath
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img align="center" alt="JavaScript" height="40" width="50" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="40" width="50" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ---
@@ -55,11 +47,11 @@ My path into tech wasn't traditional, but it taught me that adaptability, empath
 
 <div align="center">
 
-![Capoeira](https://img.shields.io/badge/Capoeira-%23563D7C?style=for-the-badge&logo=instatus&logoColor=white)
-![CrossFit](https://img.shields.io/badge/CrossFit-%23EE0000?style=for-the-badge&logo=instatus&logoColor=white)
+![Capoeira](https://img.shields.io/badge/Capoeira-%23563D7C?style=for-the-badge&logoColor=white)
+![CrossFit](https://img.shields.io/badge/CrossFit-%23EE0000?style=for-the-badge&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Coffee%20Addict-%236F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
-![Brazil](https://img.shields.io/badge/São%20Paulo%2C%20Brazil-%2300A859?style=for-the-badge&logo=googlemaps&logoColor=white)
-![twins](https://img.shields.io/badge/Twin%20Mom%20x2-%23FF69B4?style=for-the-badge&logo=heart&logoColor=white)
+![São Paulo](https://img.shields.io/badge/São%20Paulo%20Brazil-%2300A859?style=for-the-badge&logoColor=white)
+![Twin Mom](https://img.shields.io/badge/Twin%20Mom%20x2-%23FF69B4?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -68,33 +60,18 @@ My path into tech wasn't traditional, but it taught me that adaptability, empath
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="mailto:rkimball26@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ruth-kimball-52139520a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:rkimball26@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/ruth-kimball-52139520a" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </div>
 
 <br/>
 
 <div align="center">
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://github.com/Rkimball2021/Rkimball2021/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&height=100)
-```
-
-**What changed from your original:**
-
-- Fixed broken/mismatched `<div>` tags
-- Added a **matching footer wave** to bookend the header
-- Added the **animated typing banner** beneath the header
-- Proper `###` section headers throughout for clean visual hierarchy
-- Everything **centered** consistently
-- Added a fun **Twin Mom badge** 👩‍👧‍👦
-- Added **streak stats** card
-- Removed the period at the end of your LinkedIn URL (was breaking the link)
-- Cleaned up all the stray `**` markdown that wasn't rendering inside `<p>` tags
